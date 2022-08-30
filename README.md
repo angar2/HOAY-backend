@@ -1,23 +1,36 @@
 # How Old Are You?
 
 # 1. 프로젝트 정보
-> 개발 기간: 2022.05.18 ~ 2022.05.24
 
-> 팀 프로젝트(4인)
+> ### 프로젝트 소개
+- ***" 나의 얼굴 나이는 몇 살일까? "***
+기계가 알려주는 나의 얼굴 나이를 확인해봅시다.
+
+> ### 연관 GitHub
+- [Front-end](https://github.com/angar2/HOAY-frontend)
+
+> ### 개발 기간
+- 2022.05.18 ~ 2022.05.24
+
+> ### 프로젝트 형태
+- 팀 프로젝트(4인)
 
 <br>
 
 # 2. 사용 기술
-> Python 3  
-> Flask
-> Tensorflow  
-> pandas 
-> numpy  
-> mongoDB  
 
-> Javascript
-> HTML
-> CSS
+> Back-end
+- Python 3  
+- Flask
+- Tensorflow  
+- pandas 
+- numpy  
+- mongoDB  
+
+> Front-end
+- Javascript
+- HTML
+- CSS
 
 <br>
 
