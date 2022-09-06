@@ -41,9 +41,6 @@
 > ### Mock-up
 > ![image](https://user-images.githubusercontent.com/100769423/186613503-ea2c0bf9-3bd1-429c-a87b-0a875d54d79b.png)
 
-> 데이터
-> [Kaggle]()
-
 <br>
 
 # 4. 핵심 기능
